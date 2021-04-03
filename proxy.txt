@@ -1,4 +1,5 @@
 bartender.mobile.dowjones.io
+bit.ly
 google.com.hk
 main-ecnpaper-economist.content.pugpig.com
 mergersandinquisitions.com
