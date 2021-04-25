@@ -766,6 +766,7 @@ awayoutgame.com
 aweencore.com
 awetv.com
 aws
+aws.amazon.com
 aws-iot-hackathon.com
 awsautopilot.com
 awsautoscaling.com
