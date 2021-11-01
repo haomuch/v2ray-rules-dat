@@ -1,3 +1,5 @@
+api.onedrive.com
+d.docs.live.net
 microsoft-give.com
 microsoft-int.com
 microsoft-ppe.com
@@ -69,6 +71,7 @@ microsoftteams.com
 microsofttradein.com
 microsofttranslator.com
 microsoftuwp.com
+storage.live.com
 windows-int.net
 windows.com
 windows.net
