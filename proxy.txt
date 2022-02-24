@@ -1,9 +1,11 @@
+app.oepay.octopus-cards.com
 bartender.mobile.dowjones.io
 bit.ly
 gfw.com
 google.com.hk
 main-ecnpaper-economist.content.pugpig.com
 mergersandinquisitions.com
+octopus.com.hk
 onedrive.live.com
 rfi.fr
 seekingalpha.com
