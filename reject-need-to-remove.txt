@@ -4,7 +4,6 @@ addthisedge.com
 alimama.alicdn.com
 alimama.com
 analytics.google.com
-bcp.crwdcntrl.net
 bdtj.tagtic.cn
 d.ifengimg.com
 icons.mydrivers.com
@@ -24,4 +23,3 @@ tagtic.cn
 tongji.baidu.com
 tv.sohu.com
 ue.yeyoucdn.com
-youboranqs01.com
