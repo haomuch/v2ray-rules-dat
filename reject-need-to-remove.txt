@@ -7,9 +7,11 @@ analytics.google.com
 bdtj.tagtic.cn
 d.ifengimg.com
 icons.mydrivers.com
+imasdk.googleapis.com
 img.alibaba.com
 jav321.com
 knet.cn
+localytics.com
 ml314.com
 mtalk.google.com
 mx.technolutions.net
