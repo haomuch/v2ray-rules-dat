@@ -1,3 +1,4 @@
+api.vancedapp.com
 app.oepay.octopus-cards.com
 bartender.mobile.dowjones.io
 bit.ly
