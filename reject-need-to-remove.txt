@@ -5,6 +5,7 @@ alimama.alicdn.com
 alimama.com
 analytics.google.com
 bdtj.tagtic.cn
+crwdcntrl.net
 d.ifengimg.com
 doubleclick.net
 google-analytics.com
@@ -18,10 +19,13 @@ ml314.com
 mtalk.google.com
 mx.technolutions.net
 offer.alibaba.com
+perimeterx.net
 pingjs.qq.com
 s.youtube.com
+scorecardresearch.com
 sf3-ttcdn-tos.pstatp.com
 tagtic.cn
 tongji.baidu.com
 tv.sohu.com
 ue.yeyoucdn.com
+youboranqs01.com
