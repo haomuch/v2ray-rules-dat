@@ -6,6 +6,7 @@ alimama.com
 analytics.google.com
 bdtj.tagtic.cn
 d.ifengimg.com
+doubleclick.net
 icons.mydrivers.com
 imasdk.googleapis.com
 img.alibaba.com
@@ -17,7 +18,6 @@ mtalk.google.com
 mx.technolutions.net
 offer.alibaba.com
 pingjs.qq.com
-pubads.g.doubleclick.net
 s.youtube.com
 sf3-ttcdn-tos.pstatp.com
 tagtic.cn
