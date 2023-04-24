@@ -1,7 +1,5 @@
 d.ifengimg.com
-google-analytics.com
-googlesyndication.com
-googletagmanager.com
+doubleclick.net
 icons.mydrivers.com
 images.taboola.com
 imasdk.googleapis.com
