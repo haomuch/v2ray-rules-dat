@@ -1,6 +1,4 @@
 d.ifengimg.com
-doubleclick.net
-google-analytics.com
 googlesyndication.com
 googletagmanager.com
 icons.mydrivers.com
@@ -23,6 +21,5 @@ sf3-ttcdn-tos.pstatp.com
 taboola.com
 tagtic.cn
 tongji.baidu.com
-tpc.googlesyndication.com
 tv.sohu.com
 ue.yeyoucdn.com
